@@ -19,5 +19,5 @@ console.log(Read())
 
 > Custom date
 ```
-console.log(Read(your_input))
+console.log(Read(new Date(your_date)))
 ```
