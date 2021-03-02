@@ -1,0 +1,22 @@
+{
+  "name": "readabel",
+  "version": "1.0.0",
+  "description": "simple read date format",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzacq/readable.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "anan hartanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrzacq/readable/issues"
+  },
+  "homepage": "https://github.com/mrzacq/readable#readme"
+}
